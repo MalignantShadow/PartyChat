@@ -1,0 +1,11 @@
+name: PartyChat
+version: 1.0.0
+main: com.kill3rtaco.partychat.PartyChat
+description: Group chatting plugin for Bukkit servers
+commands:
+  party:
+    description: Party management commands
+    aliases: [p]
+  partychat:
+    description: Send a message to your party
+    aliases: [pchat, pc]
